@@ -6,6 +6,7 @@ Purple
 Pink
 Orange
 Blue
+reduce!
 Green
 Indigo
 Unicorn
